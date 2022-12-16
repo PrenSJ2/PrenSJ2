@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **More React**
 
-- 📫 How to reach me **prentice.seb@gmail.com**
-
 - 📄 Know about my experiences [http://seb.onlineolive.tech/](http://seb.onlineolive.tech/)
 
 <h3 align="left">Connect with me:</h3>
