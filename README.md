@@ -21,7 +21,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/prensj2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prensj2" /></a></p><br><br>
-</br>
+
+<h3 align="left">Stats:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prensj2&show_icons=true&locale=en&layout=compact" alt="prensj2" /></p>
 </br>
 </br>
