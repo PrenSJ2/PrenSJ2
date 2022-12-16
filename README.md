@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Prentice</h1>
 <h3 align="center">A Nerd👨‍💻, I have 6+ years of self-trained in HTML, CSS, Javascript & React, and have an entrepreneurial drive with a passion for the new and upcoming web 3 space🌐 I'm also pretty good at python 🐍. BSc Computing degree at The University of Buckingham 🎓 🇬🇧, and studied Computer Science at Santa Clara University🎓 🇺🇸.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prensj2&label=Profile%20views&color=0e75b6&style=flat" alt="prensj2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prensj2" alt="prensj2" /></a> </p>
-
 - 🔭 I’m currently working on [TutorCruncher](https://tutorcruncher.com/)
 
 - 🌱 I’m currently learning **More React**
