@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Prentice</h1>
-<h3 align="center">A Nerd👨‍💻, I have 6+ years of self-trained in HTML, CSS, Javascript & React, and have an entrepreneurial drive with a passion for the new and upcoming web 3 space🌐 I'm also pretty good at python 🐍. BSc Computing degree at The University of Buckingham 🎓 🇬🇧, and studied Computer Science at Santa Clara University🎓 🇺🇸.</h3>
+<h3 align="center">A Nerd👨‍💻, I have 6+ years of self-trained in HTML, CSS, Javascript & React, and have an entrepreneurial drive with a passion for the new and upcoming web 3 space 🌐. I'm also pretty good at python 🐍. BSc Computing degree at The University of Buckingham 🎓 🇬🇧, and studied Computer Science at Santa Clara University🎓 🇺🇸.</h3>
 
 - 🔭 I’m currently working on [TutorCruncher](https://tutorcruncher.com/)
 
@@ -21,9 +21,15 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/prensj2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prensj2" /></a></p><br><br>
-
+</br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prensj2&show_icons=true&locale=en&layout=compact" alt="prensj2" /></p>
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prensj2&show_icons=true&locale=en" alt="prensj2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prensj2&" alt="prensj2" /></p>
