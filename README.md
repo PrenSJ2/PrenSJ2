@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TutorCruncher](https://tutorcruncher.com/)
 
-- 🌱 I’m currently learning **More React**
+- 🌱 I’m currently learning **Xamarin, C#, Rest API stuff**
 
 - 📄 Know about my experiences [http://seb.onlineolive.tech/](http://seb.onlineolive.tech/)
 
