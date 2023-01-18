@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian Prentice</h1>
 <h3 align="center">A Nerd👨‍💻, I have 6+ years of self-trained in HTML, CSS, Javascript & React, and have an entrepreneurial drive with a passion for the new and upcoming web 3 space 🌐. I'm also pretty good at python 🐍. BSc Computing degree at The University of Buckingham 🎓 🇬🇧, and studied Computer Science at Santa Clara University🎓 🇺🇸.</h3>
 
-- 🔭 I’m currently working on [TutorCruncher](https://tutorcruncher.com/)
+- 🔭 I’m currently working at [TutorCruncher](https://tutorcruncher.com/) as a **Junior Developer**
 
-- 🌱 I’m currently learning **Xamarin, C#, Rest API stuff**
+- 🌱 I’m currently learning **Xamarin, C#, Rest API, UI/UX, MORE Python**
 
 - 📄 Know about my experiences [http://seb.onlineolive.tech/](http://seb.onlineolive.tech/)
 
