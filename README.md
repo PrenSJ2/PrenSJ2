@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [TutorCruncher](https://tutorcruncher.com/) as a **Junior Developer**
 
-- 🌱 I’m currently learning **Xamarin, C#, Rest API, UI/UX, MORE Python**
+- 🌱 I’m currently learning **Flutter, SwiftUI, UI/UX, and MORE Python**
 
 - 📄 Know about my experiences [http://seb.onlineolive.tech/](http://seb.onlineolive.tech/)
 
