@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, SwiftUI, UI/UX, and MORE Python**
 
-- 📄 Know about my experiences [http://seb.onlineolive.tech/](http://seb.onlineolive.xyz/)
+- 📄 Know about my experiences [http://seb.onlineolive.xyz/](http://seb.onlineolive.xyz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
