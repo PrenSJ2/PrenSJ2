@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Prentice</h1>
-<h3 align="center">A Nerd👨‍💻, I have 6+ years of self-trained in HTML, CSS, Javascript & React, and have an entrepreneurial drive with a passion for the new and upcoming web 3 space 🌐. I'm also pretty good at python 🐍. First Class BSc Computing (Hons) at The University of Buckingham 🎓 🇬🇧, and studied Computer Science at Santa Clara University🎓 🇺🇸.</h3>
+<h3 align="center">First Class Honors Computer Science graduate from The University of Buckingham 🎓, skilled in software development 💻 and systems engineering 🛠️. Proficient in Python 🐍 and Javascript ⌨️, with a strong focus on designing, building, testing, and deploying robust services and applications 📲. Demonstrated expertise in CI/CD pipelines 🔄 and a track record of creating user-centric solutions 👥, ready to contribute innovative strategies 🚀 in a dynamic team environment 🤝.</h3>
 
 - 🔭 I’m currently working at [TutorCruncher](https://tutorcruncher.com/) as a **Junior Developer**
 
