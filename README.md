@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [TutorCruncher](https://tutorcruncher.com/) as a **Junior Developer**
 
-- 🌱 I’m currently learning **Flutter, SwiftUI, UI/UX, and MORE Python**
+- 🌱 I’m currently learning **Flutter, OpenCV and MORE Python**
 
 - 📄 Know about my experiences [http://seb.onlineolive.xyz/](http://seb.onlineolive.xyz/)
 
