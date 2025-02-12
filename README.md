@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Voxly Digital](https://voxlydigital.com/) as a **Mid/Senior Full Stack AI Software Engineer**
 
-- 🌱 I’m currently learning **Flutter, OpenCV and MORE Python**
+- 🌱 I’m currently learning **Flutter, OpenCV and LangChain AI Agents**
 
 - 📄 Know about my experiences [http://seb.onlineolive.xyz/](http://seb.onlineolive.xyz/)
 
