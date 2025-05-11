@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prensj2&show_icons=true" alt="prensj2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prensj2&" alt="prensj2" /></p>
+
+<figure><embed src="https://wakatime.com/share/@018da790-13cc-42b0-9762-7c03fe77fc97/aa6aa93d-4dff-4358-a5ba-37b3a2fd083b.svg"></embed></figure>
+
