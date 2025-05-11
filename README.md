@@ -30,12 +30,11 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=prensj2&show_icons=true" alt="GitHub Stats" />
     </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prensj2" alt="GitHub Streak" />
+    </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prensj2" alt="GitHub Streak" />
-</p>
 
 ## ⏱ WakaTime Stats
 
