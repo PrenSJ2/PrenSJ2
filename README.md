@@ -20,21 +20,24 @@
 <h3 align="left">Support: *Buy me a Tenzing*</h3>
 <p><a href="https://www.buymeacoffee.com/prensj2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prensj2" /></a></p><br><br>
 
-<h3 align="left">Stats:</h3>
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prensj2&layout=compact" alt="prensj2" /></p>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prensj2&show_icons=true" alt="prensj2" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prensj2&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=prensj2&show_icons=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prensj2&" alt="prensj2" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prensj2" alt="GitHub Streak" />
+</p>
+
+## ⏱ WakaTime Stats
 
 ![WakaTime Stats](https://wakatime.com/share/@018da790-13cc-42b0-9762-7c03fe77fc97/aa6aa93d-4dff-4358-a5ba-37b3a2fd083b.svg)
 
