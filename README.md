@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian Prentice</h1>
 <h3 align="center">First Class Honors Computer Science graduate from The University of Buckingham 🎓, skilled in software development 💻 and systems engineering 🛠️. Proficient in Python 🐍 and Javascript ⌨️, with a strong focus on designing, building, testing, and deploying robust services and applications 📲. Demonstrated expertise in CI/CD pipelines 🔄 and a track record of creating user-centric solutions 👥, ready to contribute innovative strategies 🚀 in a dynamic team environment 🤝.</h3>
 
-- 🔭 I’m currently working at [Voxly Digital](https://voxlydigital.com/) as a **Mid/Senior Full Stack AI Software Engineer**
+- 🔭 I’m currently working at [Voxly Digital](https://voxlydigital.com/) as a **Senior Full Stack AI Software Engineer**
 
-- 🌱 I’m currently learning **Flutter, OpenCV and LangChain AI Agents**
+- 🌱 I’m currently learning **Image Processing and LangChain**
 
 - 📄 Know about my experiences [http://seb.onlineolive.xyz/](http://seb.onlineolive.xyz/)
 
