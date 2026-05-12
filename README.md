@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [66degrees](https://66degrees.com/) as a **Sr. Conversational Engineer**
 
-- 🌱 I’m currently learning **Image Processing and LangChain**
+- 🌱 I’m currently learning **ADK and Knowlege Graph Logistics**
 
 - 📄 Know about my experiences [http://seb.onlineolive.xyz/](http://seb.onlineolive.xyz/)
 
